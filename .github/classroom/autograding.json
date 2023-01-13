@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "positive",
+      "setup": "",
+      "run": "mvn -f sleepin/pom.xml test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
